@@ -45,7 +45,6 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 
 * Created virtual lab environment
 * Installed Ubuntu Server and Windows VM
-* Set up GitHub repository
 
 ### Week 2 – Build the Lab
 
