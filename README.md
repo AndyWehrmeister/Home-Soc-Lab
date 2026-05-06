@@ -23,7 +23,7 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 * Platform: VMware Workstation Pro
 * Monitoring Server: Ubuntu Server (Wazuh)
 * Endpoint 1: Windows 11 (Sysmon)
-* Endpoint 2: Ubuntu Desktop (optional agent)
+* Endpoint 2: Ubuntu Desktop 
 
 > Architecture diagram will be added in Week 2
 
@@ -125,6 +125,6 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 ## Status
 
 Week 1 – Infrastructure setup complete
-Week 2 – In progress
+Week 2 – Setup Wazuh on Ubuntu Server.
 
 ---
