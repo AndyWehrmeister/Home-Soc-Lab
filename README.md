@@ -34,26 +34,27 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 * Wazuh (SIEM and log analysis)
 * Sysmon (Windows system monitoring)
 * Ubuntu Server (log collection and analysis)
-* Windows 11 (endpoint telemetry)
+* Ubuntu Desktop (endpoint)
+* Windows 11 (endpoint)
 * VMware Workstation Pro (virtualization)
 
 ---
 
-## Implementation (Week 1–4 Roadmap)
+## Implementation 
 
-### Week 1 – Setup
+### Part 1 – Setup
 
 * Created virtual lab environment
 * Installed Ubuntu Server and Windows VM
 
-### Week 2 – Build the Lab
+### Part 2 – Build the Lab
 
 * Install Wazuh server
 * Connect Ubuntu and Windows agents
 * Install Sysmon on Windows
 * Verify log ingestion
 
-### Week 3 – Generate Activity & Investigate
+### Part 3 – Generate Activity & Investigate
 
 * Simulate events:
 
@@ -62,7 +63,7 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
   * file modifications
 * Analyze logs and identify suspicious behavior
 
-### Week 4 – Detection & Reporting
+### Part 4 – Detection & Reporting
 
 * Create detection rules
 * Develop alerts for:
@@ -91,15 +92,6 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 * Identifying suspicious PowerShell execution
 * Monitoring account creation and persistence mechanisms
 
----
-
-## Screenshots
-
-*(To be added in Week 2–4)*
-
-* Wazuh dashboard
-* Log events
-* Detection alerts
 
 ---
 
@@ -124,7 +116,8 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 
 ## Status
 
-Week 1 – Infrastructure setup complete
-Week 2 – In progress
+Part 1 – Infrastructure setup complete
+Part 2 – Wazuh Agents installed, configured, and verified logs
+Part 3 - In Progress
 
 ---
