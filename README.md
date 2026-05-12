@@ -116,8 +116,8 @@ The lab is built using virtual machines and a centralized SIEM platform to repli
 
 ## Status
 
-Part 1 – Infrastructure setup complete
-Part 2 – Wazuh Agents installed, configured, and verified logs
-Part 3 - In Progress
+* Part 1 – Infrastructure setup complete
+* Part 2 – Wazuh Agents installed, configured, and verified logs
+* Part 3 - In Progress
 
 ---
